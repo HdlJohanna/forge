@@ -16,7 +16,7 @@ if __name__ != "__main__":
 sys.argv.pop(0)
 
 packages = []
-url = "http://archive.forge.repl.co" 
+url = "http://archive.forgepkg.repl.co" 
 
 cmd = sys.argv.pop(0)
 
